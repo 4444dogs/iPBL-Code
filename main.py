@@ -9,8 +9,7 @@ import test
 
 # Function that players write in
 def unscramble(str1, str2, str3):
-    # ANSWER KEY BELOW
-    return str1 + str2 + str3
+    return #Solve Here
 
 # Facts
 print(unscramble(test.fact1_1, test.fact1_2, test.fact1_3))
