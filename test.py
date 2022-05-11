@@ -11,3 +11,8 @@ fact1_3 = "skills!"
 fact2_1 = "Coding is a"
 fact2_2 = " well-paying "
 fact2_3 = "job!"
+
+#Fact 3
+fact3_1 = "Coding can"
+fact3_2 = " improve your "
+fact3_3 = "creativity!"
