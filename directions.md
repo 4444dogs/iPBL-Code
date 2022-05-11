@@ -1,7 +1,7 @@
 # Directions
 
-Step 1: Locate the variables inside of your function. These variables are called str1, str2, and str3.
+Step 1: Find your variables! They should be called st1, str2, and str3
 
-Step 2: All you have to do is add them together! Just use your math skills. Remember, you can always ask me for help.
+Step 2: Use you math skills to add them together! If you need help, you can ask me!
 
-Step 3: Ask me to test it for you!
+Step 3: Ask me to test it!
