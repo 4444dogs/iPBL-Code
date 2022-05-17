@@ -1,8 +1,10 @@
 """
-INFO: This is a early prototype of my iPBL game.
-Players will write in the function below to put together three strings that have coding facts.
+Directions:
+Step 1: Find your variables! They should be called st1, str2, and str3
 
-NOTES: Remove the answer from the function before the big day.
+Step 2: Use you math skills to add them together! If you need help, you can ask me!
+
+Step 3: Ask me to test it!
 """
 
 import test
