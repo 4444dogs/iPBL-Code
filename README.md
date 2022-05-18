@@ -4,4 +4,4 @@ This project is not really designed to be download by anybody else but me. (But 
 
 ## Details
 
-This will be presented at 1:00 through 2:00 PM at my school.
+This will be presented at 1:00 through 2:00 PM on 5/19/2022 at my school.
