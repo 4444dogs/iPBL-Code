@@ -21,4 +21,4 @@ print(unscramble(test.fact2_1, test.fact2_2, test.fact2_3))
 print(unscramble(test.fact3_1, test.fact3_2, test.fact3_3))
 
 # Congrats Message
-print(unscramble(test.congrats_1, test.congrats_2, test.congrats_3))
+print(unscramble(test.congrats, "", ""))

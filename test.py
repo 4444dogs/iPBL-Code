@@ -18,6 +18,4 @@ fact3_2 = " improve your "
 fact3_3 = "creativity!"
 
 #Congrats Message
-congrats_1 = "Congrats! You have completed this coding challenge! Maybe you could try out the cubing station next."
-congrats_2 = ""
-congrats_3 = ""
+congrats = "Congrats! You have completed this coding challenge! Maybe you could try out the cubing station next."
