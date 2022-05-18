@@ -16,3 +16,8 @@ fact2_3 = "job!"
 fact3_1 = "Coding can"
 fact3_2 = " improve your "
 fact3_3 = "creativity!"
+
+#Congrats Message
+congrats_1 = "Congrats! You have completed this coding challenge!"
+congrats_2 = ""
+congrats_3 = ""

@@ -11,9 +11,10 @@ import test
 
 # Function that players write in
 def unscramble(str1, str2, str3):
-    return # Solve Here
+    return str1 + str2 + str3
 
 # Facts
 print(unscramble(test.fact1_1, test.fact1_2, test.fact1_3))
 print(unscramble(test.fact2_1, test.fact2_2, test.fact2_3))
 print(unscramble(test.fact3_1, test.fact3_2, test.fact3_3))
+print(unscramble(test.congrats_1, test.congrats_2, test.congrats_3))
